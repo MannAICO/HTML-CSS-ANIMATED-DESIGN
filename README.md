@@ -1,4 +1,4 @@
-Overview of my project: https://github.com/MannAICO/HTML-CSS-ANIMATED-DESIGN
+Overview of my project:https://mannaico.github.io/HTML-CSS-ANIMATED-DESIGN/
 -------
 Home page:
 ![Screenshot from 2025-01-18 11-23-06](https://github.com/user-attachments/assets/7a28d84c-8009-45ce-89b1-3eba4a4b949e)
